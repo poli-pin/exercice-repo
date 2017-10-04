@@ -14,3 +14,4 @@ Some changes from TORTOISE !!!
 	 
 	Pushing from bash is successful:)))) 
 
+Changes from bashBranch!

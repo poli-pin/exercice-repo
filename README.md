@@ -9,4 +9,8 @@ In this repository will be tested conflicts as well.
 
 Merging of the two branches is successful :))
 
-Some changes from BASH!
+Some changes from TORTOISE !!!
+     Some changes from BASH!
+	 
+	Pushing from bash is successful:)))) 
+

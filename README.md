@@ -8,3 +8,5 @@ In this repository will be tested conflicts as well.
     'Hello world!' from branch develop.
 
 Merging of the two branches is successful :))
+
+Some changes from BASH!
